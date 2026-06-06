@@ -1,0 +1,6 @@
+{
+  "name": "Diamond Painting Creator",
+  "description": "Convert uploaded images into pixelated diamond painting kits with lettered color codes and shopping stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
